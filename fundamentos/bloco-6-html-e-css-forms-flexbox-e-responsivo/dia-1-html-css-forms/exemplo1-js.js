@@ -16,3 +16,4 @@ function key(event){
     }
 }
 INPUT_TEXT.addEventListener('keypress', key)
+
