@@ -4,19 +4,8 @@ A Trybe é um programa que conta com mais de 1.500 horas de aulas presenciais e 
 "É uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
 ## Fundamentos do Desenvolvimento Web
-
-### Sessão 1: Introdução - Unix & Shell
- 1.3: Unix & Shell- Part 1;
- 1.4: Unix & Shell- Part 2.
- 
-### Sessão 2: Git & GitHub
- 2.1: O que é e para que serve?;
- 2.2: Entendendo os comandos;
- 2.3: Internet - Entendendo como ela funciona.
  
 ### Sessão 3: Introdução - HTML & CSS
- 3.1: HTML & CSS - Estruturas de página;
- 3.2: HTML & CSS - Primeiros passos em CSS;
  3.3: HTML & CSS - Seletores e posicionamento;
  3.4: HTML Semântico;
  3.5: Projeto - HTML & CSS.
@@ -38,7 +27,6 @@ A Trybe é um programa que conta com mais de 1.500 horas de aulas presenciais e 
 ### Sessão 6: HTML & CSS: Forms, Flexbox e Responsivo
  6.1: HTML & CSS - Forms;
  6.2: Bibliotecas JavaScript e Frameworks CSS;
- 6.3: CSS Flexbox - Part 1;
  6.4: CSS Flexbox - Part 2;
  6.5: CSS Responsivo - Mobile First;
  6.6: Projeto - Trybe Warts.
